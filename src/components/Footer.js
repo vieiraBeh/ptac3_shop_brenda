@@ -6,11 +6,7 @@ export default function Footer(){
     return(
             <footer className={styles.rodape}>
             <Link href="#">
-            <Image 
-            width={120}
-            height={100}
-            src={"#"}
-            />
+            
             </Link>
         </footer>
     )
