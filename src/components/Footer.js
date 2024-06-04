@@ -11,33 +11,33 @@ export default function Footer(){
             <Image 
             width={25}
             height={25}
-            src={"https://cdn-icons-png.freepik.com/256/131/131602.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
+            src={"https://cdn-icons-png.freepik.com/256/16566/16566143.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
             </Link></li>
                     <li><Link href="/">
             <Image 
             width={25}
             height={25}
-            src={"https://cdn-icons-png.freepik.com/256/131/131602.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
+            src={"https://cdn-icons-png.freepik.com/256/2111/2111463.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
             </Link></li>
                     <li><Link href="/">
             <Image 
             width={25}
             height={25}
-            src={"https://cdn-icons-png.freepik.com/256/131/131602.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
+            src={"https://cdn-icons-png.freepik.com/256/3670/3670151.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
             </Link></li>
                     <li><Link href="/">
             <Image 
             width={25}
             height={25}
-            src={"https://cdn-icons-png.freepik.com/256/131/131602.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
+            src={"https://cdn-icons-png.freepik.com/256/6422/6422199.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
             </Link></li>
                 </ul>
 
         <div className={styles.propaganda}>
             <Link href="/">
             <Image 
-            width={120}
-            height={100}
+            width={50}
+            height={50}
             src={"https://cdn-icons-png.freepik.com/256/131/131602.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
             </Link>
 
