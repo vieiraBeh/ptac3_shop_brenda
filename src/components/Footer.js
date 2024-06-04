@@ -9,9 +9,8 @@ export default function Footer(){
             <Image 
             width={120}
             height={100}
-            src={"https://cdn-icons-png.freepik.com/256/131/131602.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}
-            />
+            src={"https://cdn-icons-png.freepik.com/256/131/131602.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
             </Link>
         </footer>
-    )
+    );
 }
