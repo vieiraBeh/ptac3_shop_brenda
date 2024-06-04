@@ -3,7 +3,7 @@ const nextConfig = {
     images:{
         domains:[
             "fakestoreapi.com",
-            "ead.ifms.edu.br"
+            "cdn-icons-png.freepik.com"
         ]
     }
 };
