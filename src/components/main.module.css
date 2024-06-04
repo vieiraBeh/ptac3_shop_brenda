@@ -6,6 +6,7 @@
     flex-wrap: wrap;
     gap: 55px;
     background-color: rgb(141, 82, 148);
+    min-height: 100vh;
 }
 
 .card{
