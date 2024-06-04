@@ -12,14 +12,13 @@ export default function Header(){
                         src={"https://cdn-icons-png.freepik.com/256/131/131602.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
                 </Link>
                 <nav>
-                    <ul>
-                    <li>Não deixe para amanhã o que você pode comprar hoje!
-                    <br/>
-                    <br/>
+                    <ul className={styles.lista}>
+                    <li>Não deixe para amanhã o que você pode comprar hoje!</li>
+                    <li>
                    <Link href="/">
-                    <Image
-                        width={50}
-                        height={50}
+                    <Image className={styles.imagem}
+                        width={25}
+                        height={25}
                         src={"https://cdn-icons-png.freepik.com/256/7914/7914989.png?ga=GA1.1.491756765.1717006945&semt=ais_hybrid"}/>
                 </Link>
                   <button>ADD</button>

@@ -8,15 +8,26 @@
 }
 
 .rodape {
-    background-color: #333;
-    color: #fff;
+    background-color: #fff;
+    color: black;
     padding: 20px;
     text-align: center;
     margin-top: auto;
     opacity: 0;
     transition: opacity 0.3s ease;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body .rodape {
     opacity: 1;
+}
+
+.propaganda{
+    float: right;
+    text-align: right;
+}
+
+.social{
+    float: left;
+    list-style: none;
 }
